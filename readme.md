@@ -3,7 +3,7 @@
 ### Erica Cha | January 1st, 2016
 
 ###Description
-A form is created in HTML, once submitted connects with the PHP file and returns a message to the user. Added a button to allow the user to try again.
+A form asks the player to guess the number that has been selected random by the computer. The message will return if the guess is correct. Added a button to try again.
 
 ###Technologies Used:
 - PHP
