@@ -11,7 +11,7 @@ A form asks the player to guess the number that has been selected random by the 
 - Set your localhost root folder to ~/guess_my_number
 - Ensure PHP server is running.
 - Start the web app by pointing your browser to the root (http://localhost:8000/)
-- 
+
 ###Technologies Used:
 - PHP
 - HTML
