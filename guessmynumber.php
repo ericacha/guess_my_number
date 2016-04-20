@@ -32,9 +32,9 @@
     <div class="container">
         <h1> <?php echo $message; ?> </h1>
         <h3> <?php echo "You guessed: ". $guess; ?> </h3>
-        <h3> <?php echo "The right answer was: ". $favorite_number; ?> </h3>
+        <h3> <?php echo "The computer's answer was: ". $favorite_number; ?> </h3>
 
-        <a href="/guessmynumberform.html"><button type="button" class="btn btn-primary">Try again</button></a>  
+        <a href="http://www.erica-cha.com/guess_my_number/guessmynumberform.html"><button type="button" class="btn btn-primary">Try again</button></a>
     </div>
 
 </body>
